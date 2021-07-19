@@ -1,0 +1,10 @@
+p{
+  color: #015668;
+  background: #0d91a1;
+  width: 300px;
+  height: 160;
+  border: 5px solid #7dce94;
+  padding: 10px 20px 30px 40px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+}

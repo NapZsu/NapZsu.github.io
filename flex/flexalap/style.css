@@ -1,0 +1,29 @@
+.container {
+  width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  /*flex-direction: row-reverse;*/
+  /*flex-direction: column-reverse;*/
+  justify-content: flex-end;
+  
+}
+
+.zöld{
+  background: #51d400;
+  width: 150px;
+  height:150px;
+  
+}
+
+.sárga{
+  background: #ffd62a;
+  width: 150px;
+  height:150px;
+  
+}
+.lila{
+  background: #b02afe;
+  width: 150px;
+  height:150px;
+  
+}

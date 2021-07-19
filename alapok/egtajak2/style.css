@@ -1,0 +1,26 @@
+.egy{
+  background: #e67676 ;
+  
+ }
+.ketto{
+  background: #F2F062;
+  
+}
+.harom{
+  background: #a9e6e6;
+  
+}
+.negy{
+  background: #7692e4;
+ 
+}
+.keret{
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 60px;
+  margin: 10px;
+  border: 8px solid #4285f4;
+  padding: 40px 20px;
+  width: 400px;
+  }

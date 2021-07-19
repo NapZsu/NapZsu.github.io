@@ -1,0 +1,33 @@
+p {
+    color:rgb(166, 177, 145);
+}
+H1{
+    color:teal;
+}
+h3{
+    font-size: 40px;
+  }
+  li{
+    font-size: 20px;
+  }
+  
+  h4{
+    width: 600px;
+    font-family: 'Merriweather', serif;
+    color: #000064;
+    font-size: 20px;
+   
+    text-align: left;
+    padding-left: 50px;
+    margin: 0px 200px;
+  }
+  
+  footer{
+    border-top: 3px solid black;
+    margin: 0px 200px;
+  }
+  
+  .main{
+    flex-grow: 1.5;
+  }
+  

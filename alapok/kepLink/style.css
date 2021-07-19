@@ -1,0 +1,30 @@
+main{
+  font-family: 'Sen',     sans-serif;
+}
+
+div{
+  display: flex;
+ }
+section{
+  margin: 0px 10px;
+ text-align: center;
+  font-size: 20px;
+}
+
+a{
+  color: #000064;
+  display: block;
+}
+img{
+  width: 150px;
+  margin: 0px 10px;
+}
+
+a:hover{
+  color: lime;
+  text-decoration: none;
+}
+img:hover{
+  width: 400px;
+  margin: 0px 0px;
+}

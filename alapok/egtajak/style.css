@@ -1,0 +1,29 @@
+#egy{
+  background: #e67676 ;
+  margin:0px;
+  padding: 20px 20px;
+ }
+#ketto{
+  background: #F2F062;
+  margin:0px;
+  padding: 20px 20px;
+}
+#harom{
+  background: #a9e6e6;
+  margin:0px;
+  padding: 20px 20px;
+}
+#negy{
+  background: #7692e4;
+  margin:0px;
+  padding: 20px 20px;
+}
+div{
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 60px;
+  margin: 0px;
+  border: 8px solid #4285f4;
+  width: 500px;
+  }
