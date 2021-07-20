@@ -1,0 +1,22 @@
+body{
+  color: darkblue;
+  }
+
+div {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+   }
+   p{
+     border: 2px solid black; 
+     margin: 0px 0px; 
+     padding: 6px;
+     font-size: 20px; 
+     text-align:justify;
+   }
+  
+ p:hover{
+     font-size: 30px; 
+     background-color:rgb(247, 154, 88);
+ }

@@ -1,0 +1,28 @@
+.kék, .lila{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px 0px;
+  }
+.kék{
+    border: 2px solid blue;
+  }
+.lila{
+    border: 2px solid #b02afe;
+    background-color: burlywood;
+  }
+
+ p{
+    width: 50px;
+    height: 50px;
+    padding: 0px;
+    margin: 5px;  
+  }
+
+  .kék p{
+    background-color: blue;
+  }
+  .lila p{
+    background-color: #b02afe;
+  }
