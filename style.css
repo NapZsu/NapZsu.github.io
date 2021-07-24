@@ -3,15 +3,15 @@ body{
     font-family: 'Crimson Text', serif;
 }
 
-h1{
+h1, li{
     color:sienna;
     font-size: 40px;
-    padding: 10px 0px;
+    padding: 2px 0px;
 }
 
 a{
     color: #006400;
-    margin: 10px;
+    margin: 0px 10px;
     font-size: 20px;
   }
   
@@ -20,17 +20,12 @@ a{
     text-decoration: none;
   }
 
-li{
-      padding: 5px 0px;
-  }
-
 ul{
     list-style-type: square;
     color: yellowgreen;
  }
 
- ol{
-     font-size: 25px;
+
  }
  footer{
     color:sienna;

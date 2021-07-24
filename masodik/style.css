@@ -1,0 +1,78 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+    color:wheat;
+    background-color: darkkhaki;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+
+button{
+    margin:0px;
+    padding: 0px 0px;
+    background-color: darkkhaki;
+    stroke-width: 0mm;
+}
+
+.nyil{
+    background-color:darkolivegreen;
+}
+
+.nyil img{
+    width: 20px;
+}
+
+.foKep img{
+    width: 600px;
+}
+
+.nezegeto{
+    display: flex;
+    justify-content: center;
+    border:1px solid darkolivegreen;
+    width: 646px;
+    background-color: darkolivegreen;
+    padding: 0px;
+    margin: 0px;
+   }
+
+.vetito{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px;  
+
+}
+
+.gombok{
+    display: flex;
+    justify-content: center;
+    }
+    
+.gombKep{
+    margin: 10px 15px;
+    padding: 3px;
+    align-items: center;
+    background-color: darkolivegreen;
+    }  
+
+.gombKep img{
+    height: 25px;
+    width: 25px;
+    }
+
+.gombKep img:hover{
+        width: 50px;
+        height: 50px;
+    }
+#KepCim #KepLeiras{
+    margin: 3px;
+    padding: 0px;
+    text-align: center;
+}
+
+h1 p{
+    font-size: 20pc;
+}
