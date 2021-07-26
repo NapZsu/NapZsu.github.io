@@ -8,57 +8,55 @@ let cim1 = {
 
 let cim2 = {
     foto: 'images/2.JPG',
-    KepCim: 'Agárkosbor',
-    KepLeiras: 'Kaszálás előtt...'
-  };
-
-let cim3 = {
-    foto: 'images/3.JPG',
-    KepCim: 'Fertő tó',
-    KepLeiras: 'Tűzvész után...'
-  };
-
-  let cim4 = {
-    foto: 'images/4.JPG',
     KepCim: 'Tükörkép',
     KepLeiras: 'Egyszerű órai feladat...'
   };
 
-let cim5 = {
-    foto: 'images/5.JPG',
+let cim3 = {
+    foto: 'images/3.JPG',
     KepCim: 'Fény-játék',
     KepLeiras: 'Kápolna park...'
   };
-
-let cim6 = {
-    foto: 'images/6.JPG',
-    KepCim: 'Naplemente',
-    KepLeiras: 'Holnap szél lesz?...'
-  };
-  let cim7 = {
-    foto: 'images/7.JPG',
-    KepCim: 'Első fagy',
-    KepLeiras: 'Utolsó rózsa 2020-ban...'
-  };
-
-let cim8 = {
-    foto: 'images/8.JPG',
+let cim4 = {
+    foto: 'images/4.JPG',
     KepCim: 'Cipője is van!',
     KepLeiras: 'Szilveszter délután az erdőn...'
   };
 
+let cim5 = {
+    foto: 'images/5.JPG',
+    KepCim: 'Téli tuskó',
+    KepLeiras: 'Gomba, moha és zuzmó...'
+  };
+
+let cim6 = {
+    foto: 'images/6.JPG',
+    KepCim: 'Jégbogyók',
+    KepLeiras: 'Balatonpart...'
+  };
+
+let cim7 = {
+    foto: 'images/7.JPG',
+    KepCim: 'Jégvilág',
+    KepLeiras: 'Balaton télen...'
+  };
+
+  let cim8 = {
+    foto: 'images/8.JPG',
+    KepCim: 'Hársas-tó',
+    KepLeiras: 'Őszi kirándulás...'
+  };
+
 let cim9 = {
     foto: 'images/9.JPG',
-    KepCim: 'Csúszik!',
-    KepLeiras: 'Szilveszter délután az erdőn...'
+    KepCim: 'Ebédszünet',
+    KepLeiras: 'Kányavári sziget...'
   };
-
   let cim10 = {
     foto: 'images/10.JPG',
-    KepCim: 'Téli zöld',
-    KepLeiras: 'Szilveszter délután az erdőn...'
+    KepCim: 'Kis-Balaton',
+    KepLeiras: 'Fent az ég és lent a víz...'
   };
-
 
 let cimek=[cim1, cim2, cim3, cim4, cim5, cim6, cim7, cim8, cim9, cim10]
 let min=0
